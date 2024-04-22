@@ -1,5 +1,8 @@
 _repo: The-school-girls-treasury-b-or-Stories-for-thoughtful-girls_73286
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Guernsey, Lucy Ellen
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56141
     wikipedia: https://en.wikipedia.org/wiki/Lucy_Ellen_Guernsey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73286#The-school-girls-treasury-b-or-Stories-for-thoughtful-girls
 gutenberg_issued: '2024-03-29'
 gutenberg_type: Text
 identifiers:
